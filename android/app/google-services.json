@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "940258546341",
+    "project_id": "futterene2022",
+    "storage_bucket": "futterene2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940258546341:android:a6764cf8257d2ca8d1334c",
+        "android_client_info": {
+          "package_name": "com.example.basedatosimp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940258546341-srg6i13g629k7imnd03eacehgccqsrms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.basedatosimp",
+            "certificate_hash": "0249d23af5dd3229914e6c6ba4a963b32df805f9"
+          }
+        },
+        {
+          "client_id": "940258546341-mqb2gnt0paeveej5d9ac3gvqq3l5f3r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5AKv7iuckXrh8xsOoSZQSHxl03o_aZYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940258546341-mqb2gnt0paeveej5d9ac3gvqq3l5f3r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
